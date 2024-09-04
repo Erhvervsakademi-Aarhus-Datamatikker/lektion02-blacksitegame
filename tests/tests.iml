@@ -7,6 +7,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="lektion03-blacksitegame" />
+    <orderEntry type="module" module-name="lektion03-blacksitegameTEST" />
     <orderEntry type="module" module-name="lektion02-blacksitegame" />
+    <orderEntry type="module" module-name="Prog1Lektion01" />
+    <orderEntry type="module" module-name="Test" />
   </component>
 </module>
