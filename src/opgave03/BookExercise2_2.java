@@ -12,5 +12,6 @@ public class BookExercise2_2 {
         System.out.println("The area is "+area);
         double volume=area*length;
         System.out.println("The volume is: "+volume);
+        System.out.println();
     }
 }

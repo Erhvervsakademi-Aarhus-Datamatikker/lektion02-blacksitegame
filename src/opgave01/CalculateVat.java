@@ -18,8 +18,5 @@ public class CalculateVat {
         double beløb_moms = beløb * moms - beløb;
         System.out.println("her er moms: " + beløb_moms);
 
-        //Hej
-
-        System.out.println("hej");
     }
 }
